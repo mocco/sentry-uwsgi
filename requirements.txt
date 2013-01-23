@@ -1,0 +1,4 @@
+sentry
+sentry-github
+psycopg2
+python-memcached
